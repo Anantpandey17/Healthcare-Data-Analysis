@@ -42,7 +42,7 @@ Creating Data Models: Developing appropriate data models, such as star or snowfl
 
 **Adding Interactivity and Navigation:**  Incorporating interactive elements allowed users to drill down into specific details and explore different scenarios.
 
-                                                                                     ****OVERALL OBJECTIVES****
+ ****OVERALL OBJECTIVES****
 
   **PROJECT GOALS**
      
@@ -63,6 +63,18 @@ Creating Data Models: Developing appropriate data models, such as star or snowfl
 
 1) Summary page
 2) Detailed page for granular analysis
+
+**Key Takeaways and Lessons Learned:**
+
+**Effective Communication:** Strong communication with stakeholders throughout the project is essential for alignment and successful outcomes.
+
+**Data Quality:** Ensuring data accuracy and completeness is crucial for reliable analysis and insights
+
+**Visualization Best Practices**: Choosing appropriate visualizations and designing an intuitive user interface is key to effective data storytelling.
+
+**Iterative Development:** We can also customize the dashboard design based on feedback and evolving requirements.
+
+
    
                                                                                   
 
